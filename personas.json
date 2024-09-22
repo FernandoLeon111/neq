@@ -1,16 +1,13 @@
 [
     {
       "nombre": "Ismelda Trivino",
-      "numero": "03222544210",
-      "banco": "Bancolombia",
+      "tel": "3222544210",
       "referencia": "M52010"
-
     },
     {
-      "nombre": "Maria Lopez",
-      "numero": "10987654321",
-      "pagoEn": "Nequi",
-      "banco": "Nequi"
+      "nombre": "Alexander Salas Bermeo",
+      "tel": "3203012067",
+        "referencia": "M11968936"
     }
   ]
   

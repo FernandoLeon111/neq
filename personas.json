@@ -8,6 +8,12 @@
       "nombre": "Alexander Salas Bermeo",
       "numeroNequi": "3203012067",
         "referencia": "M11968936"
+    },
+    {
+        "nombre": "Maria Rodriguez",
+        "monto": 250000,
+        "numeroNequi": "3207654321",
+        "referencia": "Pago002"
     }
   ]
   
